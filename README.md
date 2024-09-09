@@ -1,2 +1,2 @@
-# panda-challenge-1
-Panda Challenge 1
+# pandas-challenge-1
+Pandas Challenge 1
