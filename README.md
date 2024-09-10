@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # pandas-challenge-1
 Module 4 Challenge - Pandas Challenge
 
@@ -16,9 +15,6 @@ This module challenge focused on utilizing Python's Pandas library to conduct da
 ### Programming Language
 Python programming language was used to create the code for this project in Visual Studio Code.
 
-## Resources 
+# Resources 
 I received assistance with importing the starter files into the terminal and creating a copy of the starter code. I attended office hours after class to troubleshoot a segment of my code in Part 2 of the challenge. I also attended a tutoring session to receive assistance with the .map function.
-=======
-# pandas-challenge-1
-Pandas Challenge 1
->>>>>>> acdc373482ef22e1d9778049df8170d0271e6bec
+
