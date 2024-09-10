@@ -16,5 +16,5 @@ This module challenge focused on utilizing Python's Pandas library to conduct da
 Python programming language was used to create the code for this project in Visual Studio Code.
 
 # Resources 
-I received assistance with importing the starter files into the terminal and creating a copy of the starter code. I attended office hours after class to troubleshoot a segment of my code in Part 2 of the challenge. I also attended a tutoring session to receive assistance with the .map function.
+I received assistance with importing the starter files into the terminal and creating a copy of the starter code to ensure that I did not alter the starter code. I labeled the starter code accordingly and placed my code in the copy of the starter code file. I attended office hours after class to troubleshoot a segment of my code in Part 2 of the challenge. I also attended a tutoring session to receive assistance with the .map function.
 
