@@ -12,7 +12,7 @@ This module challenge focused on utilizing Python's Pandas library to conduct da
 
 **_Summarizing and Analyzing_**: The newly created columns were used to identify the amount the top 5 clients by quantity spent. A summary DataFrame was then created to show the totals information for the top 5 clients. The data was then reformatted to display currency in millions of dollars and the columns were renamed to make them suitable for presentation.
 
-### Programming Language
+# Programming Language
 Python programming language was used to create the code for this project in Visual Studio Code.
 
 # Resources 
